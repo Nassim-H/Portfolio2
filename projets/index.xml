@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on My New Hugo Site</title>
+    <link>http://example.org/projets/</link>
+    <description>Recent content in Projets on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 09:20:23 +0200</lastBuildDate><atom:link href="http://example.org/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projethugo</title>
+      <link>http://example.org/projets/projethugo/</link>
+      <pubDate>Mon, 23 May 2022 09:20:23 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projethugo/</guid>
+      <description>Projet Hugo C&amp;rsquo;est un projet réalisé en cours ayant pour but de créer sonr portfolio numérique. Je l&amp;rsquo;ai réalisé en cours de PPP à l&amp;rsquo;I.U.T de Lens avec comme enseignant Mr Lecha. Les outils utilisés sont composés de Visual Studio Code dans lequel j&amp;rsquo;écris. Bulma est un framework de Hugo et nous est utile dans la création du portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Sae</title>
+      <link>http://example.org/projets/sae/</link>
+      <pubDate>Mon, 09 May 2022 09:43:33 +0200</pubDate>
+      
+      <guid>http://example.org/projets/sae/</guid>
+      <description>Salut</description>
+    </item>
+    
+  </channel>
+</rss>
